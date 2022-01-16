@@ -11,9 +11,9 @@ ARIMA
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WdBmSV01UHGRklks8mqf8ZxojcUXhPXs)
 
 
+구간평균/단순,이중지수폏활/홀트윈터(3중지수)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oY7yRgOkY8cb9_rnrrSHkG7QVscHje_C)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
+ARIMA/SARIMA
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XvDe-ljbmuLtcfkYczaLfgJQkDZNUbiH)
