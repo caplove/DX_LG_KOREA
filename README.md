@@ -1,12 +1,26 @@
 # 시계열 Data
 Day_1. 시계열데이터
 
+Decomposition / MAD / MSE / MAPE
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10jd7X6ltlb3e7JqtvQHeF3EDqGggyiSc)
+
+Correlation / AutoCorrelation / Transform
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16yf-2sDBbfUT5tbWgB4g6lYSUhEhuwPH)
 
 
 
 
+Model - Binary Variable / Trigonimetric / Growth Curve
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nQ0hBeo90O_SmYar30xtoumOtWI8JMYz)
 
 
+
+
+실습
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hCN1wWj920Kn7rv6kdgD_llM3pXeItIb)
+
+
+##########################################################################################
 
 Day_2. 통계기반시계열분석
 
