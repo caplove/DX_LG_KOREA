@@ -8,8 +8,7 @@ Moving Average(구간평균)/Exponential Smoothing(지수평활법) / Holt-Winte
 
 
 ARIMA
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/caplove/DX_LG_KOREA/blob/main/%ED%86%B5%EA%B3%84%EA%B8%B0%EB%B0%98%EC%8B%9C%EA%B3%84%EC%97%B4%EB%B6%84%EC%84%9D%202%ED%9A%8C%EC%B0%A8%20-%202.ipynb#scrollTo=VDSGTRL3s_J0)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WdBmSV01UHGRklks8mqf8ZxojcUXhPXs)
 
 
 
